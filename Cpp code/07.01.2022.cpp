@@ -24,14 +24,6 @@ else if(a=="Onam")
 	cout << "  @@@   @   @@  @      @  @  @@  @" << endl;
 
 }
-else if(a=="Opa")
-{
-	cout << "   @@@@     @@@@      @@      @@      @@" << endl;
-	cout << "  @    @   @    @    @  @     @@      @@" << endl;
-	cout << "  @    @   @ @@@    @ @@ @    @ @    @ @" << endl;
-	cout << "  @    @   @       @      @   @  @  @  @" << endl;
-	cout << "   @@@@    @      @        @  @   @@   @" << endl;
-}
 	cout << v;
 return 0;
 }
