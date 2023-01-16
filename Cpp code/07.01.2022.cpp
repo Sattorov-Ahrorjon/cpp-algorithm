@@ -7,7 +7,7 @@ string a;
 cout << " a : ";
 cin >> a;
 
-if(a == "Ota")
+if(a == "Otam")
 {
 	v=1;
 	cout << " @@@   @@@@@   @@     @@    @@" << endl;
@@ -15,7 +15,7 @@ if(a == "Ota")
 	cout << "@   @    @   @ @@ @   @ @  @ @" << endl;
 	cout << " @@@     @  @      @  @  @@  @" << endl;
 }
-else if(a=="Ona")
+else if(a=="Onam")
 {
 	v=2;
 	cout << "  @@@   @@   @     @@     @@    @@" << endl;
@@ -23,13 +23,6 @@ else if(a=="Ona")
 	cout << " @   @  @  @ @   @ @@ @   @ @  @ @" << endl;
 	cout << "  @@@   @   @@  @      @  @  @@  @" << endl;
 
-}
-else if(a=="Qirolicha")
-{	cout << "  @@@   @   @   @   @@   @    @@@  " << endl;
-	cout << " @   @  @   @   @   @ @  @   @     " << endl;
-	cout << " @   @  @   @   @   @  @ @   @  @@ " << endl;
-	cout << "  @@@@   @@@    @   @   @@    @@@@ " << endl;
-	cout << "     @@                            " << endl;
 }
 else if(a=="Opa")
 {
